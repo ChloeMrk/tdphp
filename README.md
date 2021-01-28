@@ -15,3 +15,5 @@ Taches effectuées :
                                          Cloudinary
                                          
 Problème:  Problème erreurs de clé quand j'appelais l'image
+
+Pour ouvrir le dossier il faut l'enlever du fichier tdphp-main.zip pour pourvoir l'ouvrir
