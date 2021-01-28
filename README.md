@@ -2,7 +2,9 @@
 MERCK Chloé STAILI Sofiane
 
 
-Taches effectuées :     Sofiane Staili : Front > Home page et inscription 
+Taches effectuées :    
+
+                        Sofiane Staili : Front > Home page et inscription 
                                          Back > Post image
                                          
                                          
